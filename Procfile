@@ -1,1 +1,1 @@
-worker: node . --db 'mongodb+srv://NkBot:Triple313@cluster0.sz5wv.mongodb.net/?retryWrites=true&w=majority'
+worker: node . --db 'mongodb+srv://nkbot:<password>@cluster0.stfe7vh.mongodb.net/?retryWrites=true&w=majority'
